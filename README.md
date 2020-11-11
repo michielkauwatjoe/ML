@@ -1,6 +1,6 @@
-# NeuralNets
+# ML
 
-NN experiments.
+ML experiments.
 
 
 # Colaboratory
