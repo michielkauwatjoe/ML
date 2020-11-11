@@ -10,4 +10,11 @@ ML experiments.
 * https://colab.research.google.com/notebooks/gpu.ipynb
 * https://colab.research.google.com/notebooks/tpu.ipynb
 
+# Pandas
 
+* https://youtu.be/_T8LGqJtuGc
+
+
+# More
+
+* https://machinelearning.veravandeseyp.com/
